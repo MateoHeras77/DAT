@@ -71,7 +71,7 @@ export const Profile = ({ id, visible, sectionRef }) => {
                 href="mailto:wmateohv@gmail.com"
                 icon="send"
               >
-                Send us a email: wmateohv@gmail.com
+                Send us a email: test@gmail.com
               </Button>
               <Button
                 secondary
