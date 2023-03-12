@@ -68,10 +68,10 @@ export const Profile = ({ id, visible, sectionRef }) => {
                 secondary
                 className={styles.button}
                 data-visible={visible}
-                href="mailto:wmateohv@hotmail.com"
+                href="mailto:wmateohv@gmail.com"
                 icon="send"
               >
-                Send us a email: wmateohv@hotmail.com
+                Send us a email: wmateohv@gmail.com
               </Button>
               <Button
                 secondary
